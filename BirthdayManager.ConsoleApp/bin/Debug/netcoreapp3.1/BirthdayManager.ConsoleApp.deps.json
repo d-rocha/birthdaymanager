@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BirthdayManager.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "BirthdayManager.Domain": "1.0.0",
+          "BirthdayManager.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "BirthdayManager.ConsoleApp.dll": {}
+        }
+      },
+      "BirthdayManager.Domain/1.0.0": {
+        "runtime": {
+          "BirthdayManager.Domain.dll": {}
+        }
+      },
+      "BirthdayManager.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BirthdayManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BirthdayManager.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BirthdayManager.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BirthdayManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BirthdayManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
