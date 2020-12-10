@@ -1,0 +1,9 @@
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\bin\Debug\netstandard2.0\BirthdayManager.Domain.deps.json
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\bin\Debug\netstandard2.0\BirthdayManager.Domain.dll
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\bin\Debug\netstandard2.0\BirthdayManager.Domain.pdb
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.AssemblyInfo.cs
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.dll
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.pdb
+C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Domain\obj\Debug\netstandard2.0\BirthdayManager.Domain.csprojAssemblyReference.cache

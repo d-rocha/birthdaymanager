@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlEYkLy8+FrVrgsv9gmAQkY0rKC4nu6YsZt6iwMok9/gwh4QlNV/lipvXvsP8qtXecIQim9TWVN3mDgx6scq5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Davi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
