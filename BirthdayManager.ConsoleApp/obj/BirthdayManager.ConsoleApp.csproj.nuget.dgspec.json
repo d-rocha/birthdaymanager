@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj": {}
+    "D:\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj": {
+    "D:\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj",
         "projectName": "BirthdayManager.ConsoleApp",
-        "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj",
+        "projectPath": "D:\\BirthdayManager\\BirthdayManager.ConsoleApp\\BirthdayManager.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.ConsoleApp\\obj\\",
+        "outputPath": "D:\\BirthdayManager\\BirthdayManager.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
-                "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj"
+              "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
+                "projectPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj"
               },
-              "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj"
+              "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj": {
+                "projectPath": "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
+    "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
+        "projectUniqueName": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
         "projectName": "BirthdayManager.Domain",
-        "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
+        "projectPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\obj\\",
+        "outputPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj": {
+    "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj",
+        "projectUniqueName": "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj",
         "projectName": "BirthdayManager.Infrastructure",
-        "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj",
+        "projectPath": "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\BirthdayManager.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Infrastructure\\obj\\",
+        "outputPath": "D:\\BirthdayManager\\BirthdayManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,8 +141,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
-                "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj"
+              "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj": {
+                "projectPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj"
               }
             }
           }

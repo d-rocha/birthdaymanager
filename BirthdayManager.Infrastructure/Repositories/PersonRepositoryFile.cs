@@ -186,11 +186,9 @@ namespace BirthdayManager.Infrastructure.Repositories
         /// <returns>Returns the directory and file path, create a case if none/returns>
         private static string GetFileName()
         {
-            string dirPath = Environment.CurrentDirectory;
+            string filePath = @"D:\BirthdayManager\persondata.txt";
 
-            string filePath = "persondata.txt";
-
-            return dirPath + filePath;
+            return filePath;
         }
 
         /// <summary>

@@ -10,3 +10,15 @@ C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug
 C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.csproj.CopyComplete
 C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.dll
 C:\Users\Davi\Downloads\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.pdb
+D:\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug\netstandard2.0\BirthdayManager.Infrastructure.deps.json
+D:\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug\netstandard2.0\BirthdayManager.Infrastructure.dll
+D:\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug\netstandard2.0\BirthdayManager.Infrastructure.pdb
+D:\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug\netstandard2.0\BirthdayManager.Domain.dll
+D:\BirthdayManager\BirthdayManager.Infrastructure\bin\Debug\netstandard2.0\BirthdayManager.Domain.pdb
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.csprojAssemblyReference.cache
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.AssemblyInfoInputs.cache
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.AssemblyInfo.cs
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.csproj.CopyComplete
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.dll
+D:\BirthdayManager\BirthdayManager.Infrastructure\obj\Debug\netstandard2.0\BirthdayManager.Infrastructure.pdb

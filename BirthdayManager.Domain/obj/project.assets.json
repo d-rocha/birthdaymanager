@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
+      "projectUniqueName": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
       "projectName": "BirthdayManager.Domain",
-      "projectPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
+      "projectPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\BirthdayManager.Domain.csproj",
       "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Davi\\Downloads\\BirthdayManager\\BirthdayManager.Domain\\obj\\",
+      "outputPath": "D:\\BirthdayManager\\BirthdayManager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",

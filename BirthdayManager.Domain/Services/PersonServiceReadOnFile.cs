@@ -21,12 +21,14 @@ namespace BirthdayManager.Domain.Services
         /// <returns>Return a person's list</returns>
         public List<Person> ReadOnFile()
         {
+            string filePath = @"D:\BirthdayManager\persondata.txt"; ;
+
             try
             {
                 FileStream fs;
-                if (!File.Exists(@"C:\Users\Davi\Downloads\BirthdayManager\persondata.txt"))
+                if (!File.Exists(filePath))
                 {
-                    fs = File.Create(@"C:\Users\Davi\Downloads\BirthdayManager\persondata.txt");
+                    fs = File.Create(filePath);
                     fs.Close();
                 }
             }
